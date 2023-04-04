@@ -1,6 +1,6 @@
 ### TALENT LAND 2023
 
-Repositorio para simplificar la gestión de interacciones en eventos de conferencia. Brinda herramientas para rastrear asistentes, talleres y actividades relacionadas al evento, con información útil sobre patrocinadores y ponentes.
+Repositorio para simplificar la gestión de interacciones en eventos de conferencia. Brinda herramientas para registrarse a talleres y actividades relacionadas al evento, con información útil sobre patrocinadores y ponentes.
 
 <p align="center">
   
