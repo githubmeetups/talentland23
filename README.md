@@ -9,6 +9,9 @@ Repositorio para simplificar la gestión de interacciones en eventos de conferen
 <p align="center">
   
 <img width="320" alt="Screenshot 2023-04-04 at 1 46 16 PM" src="https://user-images.githubusercontent.com/20666190/229875076-6cec5b3e-70de-4bec-952f-096bb0f83e5c.png">
+    
+<p align="center">
+Check in disponible abril 10
 
 <p align="center">
 
