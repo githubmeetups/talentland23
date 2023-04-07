@@ -17,3 +17,5 @@ Check in disponible abril 10
 
 <img width="720" alt="horario" src="https://user-images.githubusercontent.com/20666190/229881243-11be23b1-45f7-4e20-ac38-93063abb0dcc.png">
 
+<p align="center">
+<img width="385" alt="Screenshot 2023-04-07 at 10 30 44 AM" src="https://user-images.githubusercontent.com/20666190/230626073-c8c365ee-38d2-4e6d-b2ad-7a8a4a015bfa.png">
