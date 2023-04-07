@@ -1,6 +1,7 @@
 ### TALENT LAND 2023
 
-Repositorio para simplificar la gestión de interacciones en eventos de conferencia. Brinda herramientas para registrarse a talleres y actividades relacionadas al evento, con información útil sobre patrocinadores y ponentes.
+El equipo de GitHub tendrá una presencia destacada en TalentLand 2023 desde el 10 al 14 de abril.
+¡No te pierdas la oportunidad de descubrir nuevas ideas y conectar con miles de profesionales en esta emblemática experiencia de aprendizaje!
 
 <p align="center">
   
